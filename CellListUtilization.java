@@ -2,10 +2,6 @@ import java.util.Scanner;
 import java.io.FileNotFoundException;
 import java.io.FileInputStream;
 
-/**
- * Name and ID: Kevin Duong 40209877 & Paul Touma 40210678 COMP249 Assignment 4
- * Due Date: April 15th 2022
- */
 
 public class CellListUtilization {
 
