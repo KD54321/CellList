@@ -1,12 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Name and ID: Kevin Duong 40209877 & Paul Touma 40210678
- * COMP249
- * Assignment 4
- * Due Date: April 15th 2022
- */
-
 public class Cellphone {
 	private long serialNum;
 	private String type;
