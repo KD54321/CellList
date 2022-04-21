@@ -1,9 +1,6 @@
 import java.util.NoSuchElementException;
 
-/**
- * Name and ID: Kevin Duong 40209877 & Paul Touma 40210678 COMP249 Assignment 4
- * Due Date: April 15th 2022
- */
+
 public class CellList {
 
 	private class CellNode {
